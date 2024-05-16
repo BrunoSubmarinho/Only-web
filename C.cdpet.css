@@ -1,67 +1,94 @@
-.cadastro1 {
+.cadastro {
     position: absolute;
     top: 152px;
     left: 359px;
     font-size: var(--font-size-31xl);
   }
-  .frame-child1,
-  .nome {
+  .nome-do-pet {
     position: absolute;
-    left: 162px;
-  }
-  .nome {
     top: 323px;
+    left: 162px;
     font-weight: 500;
   }
-  .frame-child1 {
+  .input-estilo{
+    position: absolute;
+    top: 369px;
+    left: 162px;
+    border: none;
+    outline: none;
+  }
+  .input-estilo2{
+    position: absolute;
+    top: 625px;
+    left: 162px;
+    border: none;
+    outline: none;
+  }
+  .input-estilo3{
+    position: absolute;
+    top: 545px;
+    left: 162px;
+    border: none;
+    outline: none;
+  }
+  .input-estilo4{
+    position: absolute;
+    top: 459px;
+    left: 162px;
+    border: none;
+    outline: none;
+  }
+  .frame-child {
     top: 391px;
     width: 580px;
     height: 3.1px;
     object-fit: contain;
   }
-  .e-mail1 {
-    top: 582px;
-    font-weight: 500;
-  }
-  .e-mail1,
-  .frame-child2,
-  .senha1 {
+  .descrio,
+  .frame-child,
+  .frame-item {
     position: absolute;
     left: 162px;
   }
-  .frame-child2 {
+  .descrio {
+    top: 570px;
+    font-weight: 500;
+  }
+  .frame-item {
     top: 481px;
     width: 580px;
     height: 3.1px;
     object-fit: contain;
   }
-  .senha1 {
+  .idade {
+    position: absolute;
     top: 498px;
+    left: 167px;
     font-weight: 500;
   }
-  .frame-child3 {
+  .frame-inner {
     top: 566px;
     width: 580px;
     height: 3.1px;
     object-fit: contain;
   }
-  .cpf,
-  .frame-child3,
-  .frame-child4 {
+  .especie-do-pet,
+  .frame-inner,
+  .line-icon {
     position: absolute;
     left: 162px;
   }
-  .cpf {
-    top: 413px;
+  .especie-do-pet {
+    top: 410px;
     font-weight: 500;
   }
-  .frame-child4 {
+  .line-icon {
     top: 650px;
     width: 580px;
     height: 3.1px;
     object-fit: contain;
   }
-  .frame-child5 {
+  .rectangle-div {
     position: absolute;
     top: 762px;
     left: 334px;
@@ -71,7 +98,7 @@
     height: 62px;
     cursor: pointer;
   }
-  .criar-conta2 {
+  .criar-conta {
     position: absolute;
     top: 775px;
     left: 381px;
@@ -79,8 +106,8 @@
     font-weight: 500;
     color: var(--color-white);
   }
-  .caso-j-tenha1,
-  .entrar2 {
+  .caso-j-tenha,
+  .entrar {
     position: absolute;
     top: 696px;
     left: calc(50% - 329px);
@@ -91,32 +118,32 @@
     width: 281px;
     height: 23px;
   }
-  .entrar2 {
+  .entrar {
     left: calc(50% - 61px);
     color: var(--color-red);
     width: 92px;
   }
-  .cadastro-group,
-  .cat-and-dog-cuate-12 {
+  .cadastro-parent,
+  .cat-and-dog-cuate-1 {
     position: absolute;
     top: 0;
     overflow: hidden;
   }
-  .cadastro-group {
+  .cadastro-parent {
     left: 0;
     background-color: var(--color-white);
     width: 960px;
     height: 1024px;
   }
-  .cat-and-dog-cuate-12 {
+  .cat-and-dog-cuate-1 {
     left: 70px;
     width: 339px;
     height: 320px;
   }
-  .encontre-seu-novo2 {
+  .encontre-seu-novo {
     margin: 0;
   }
-  .encontre-seu-novo-container2 {
+  .encontre-seu-novo-container {
     position: absolute;
     top: 465px;
     left: calc(50% - 181px);
@@ -125,18 +152,18 @@
     width: 362px;
     height: 124px;
   }
-  .visamos-facilitar-a4,
-  .visamos-facilitar-a5 {
+  .visamos-facilitar-a,
+  .visamos-facilitar-a1 {
     position: absolute;
     top: 711px;
     left: 98px;
     display: inline-block;
     width: 359px;
   }
-  .visamos-facilitar-a5 {
+  .visamos-facilitar-a1 {
     top: 813px;
   }
-  .gato-1-12 {
+  .gato-1-1 {
     position: absolute;
     top: 709px;
     left: 50px;
@@ -144,14 +171,14 @@
     height: 40px;
     object-fit: cover;
   }
-  .pet-house2 {
+  .pet-house {
     position: absolute;
     top: 367px;
     left: 142px;
     font-size: var(--font-size-17xl);
     color: var(--color-salmon);
   }
-  .cachorro-1-icon2 {
+  .cachorro-1-icon {
     position: absolute;
     top: 803px;
     left: 50px;
@@ -159,13 +186,13 @@
     height: 40px;
     object-fit: cover;
   }
-  .tela-cadastro,
-  .tela-login3 {
+  .tela-cadastro-animal,
+  .tela-login {
     background-color: var(--color-brown);
     height: 1024px;
     overflow: hidden;
   }
-  .tela-login3 {
+  .tela-login {
     position: absolute;
     top: 0;
     left: 960px;
@@ -174,7 +201,7 @@
     color: var(--color-white);
     font-family: var(--font-montserrat);
   }
-  .tela-cadastro {
+  .tela-cadastro-animal {
     width: 100%;
     position: relative;
     text-align: center;
@@ -182,4 +209,4 @@
     color: var(--color-black);
     font-family: var(--font-poppins);
   }
-  
+ 
