@@ -1,0 +1,280 @@
+.frame-child7 {
+    position: absolute;
+    top: 152px;
+    left: 41px;
+    border-radius: var(--br-13xl);
+    width: 516px;
+    height: 425px;
+    object-fit: cover;
+  }
+  .image-4-icon,
+  .image-5-icon,
+  .image-6-icon {
+    position: absolute;
+    top: 167px;
+    left: 584px;
+    width: 130px;
+    height: 99px;
+    object-fit: cover;
+  }
+  .image-5-icon,
+  .image-6-icon {
+    top: 310px;
+    height: 108px;
+  }
+  .image-6-icon {
+    top: 462px;
+    left: 581px;
+    width: 135px;
+    height: 97px;
+  }
+  .frame-child8 {
+    position: absolute;
+    top: 176px;
+    left: 741px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-pink);
+    width: 190px;
+    height: 170px;
+  }
+  .entre-em-contato {
+    position: absolute;
+    top: 257px;
+    left: 777px;
+    letter-spacing: 0.01em;
+    line-height: 38px;
+    color: var(--color-darkslategray);
+    display: inline-block;
+    width: 132px;
+    height: 80px;
+    opacity: 0.77;
+  }
+  .pngwing-2-icon {
+    position: absolute;
+    top: 333px;
+    left: 482px;
+    width: 62px;
+    height: 62px;
+    object-fit: cover;
+  }
+  .osvaldo2 {
+    position: absolute;
+    top: 90px;
+    left: 92px;
+    font-size: var(--font-size-11xl);
+    font-family: var(--font-montserrat);
+    text-align: center;
+  }
+  .r35001,
+  .valor1 {
+    position: absolute;
+    top: 211px;
+    left: 811px;
+    font-family: var(--font-poppins);
+    display: inline-block;
+    width: 55px;
+    height: 30px;
+  }
+  .valor1 {
+    top: 192px;
+    left: 806px;
+    font-family: var(--font-montserrat);
+    text-align: center;
+    width: 60px;
+    height: 21px;
+  }
+  .frame-child9 {
+    position: absolute;
+    top: 253px;
+    left: 741px;
+    width: 190px;
+    height: 1px;
+    object-fit: contain;
+  }
+  .descrio1 {
+    position: absolute;
+    top: 594px;
+    left: 72px;
+    letter-spacing: 0.01em;
+    line-height: 38px;
+    color: var(--color-darkslategray);
+    display: inline-block;
+    width: 87px;
+    height: 37px;
+    opacity: 0.77;
+  }
+  .frame-child10 {
+    position: absolute;
+    top: 602px;
+    left: 51px;
+    border-radius: 50%;
+    background-color: var(--color-darkcyan);
+    width: 10px;
+    height: 10px;
+  }
+  .carteira-de-vacinao {
+    position: absolute;
+    top: 759px;
+    left: 81px;
+    letter-spacing: 0.01em;
+    line-height: 38px;
+    color: var(--color-darkslategray);
+    display: inline-block;
+    width: 149px;
+    height: 37px;
+    opacity: 0.77;
+  }
+  .frame-child11 {
+    position: absolute;
+    top: 772px;
+    left: 51px;
+    border-radius: 50%;
+    background-color: var(--color-darkcyan);
+    width: 10px;
+    height: 10px;
+  }
+  .se-voc-est {
+    margin: 0;
+  }
+  .se-voc-est-container {
+    position: absolute;
+    top: 628px;
+    left: 51px;
+    letter-spacing: 0.01em;
+    line-height: 38px;
+    display: inline-block;
+    width: 726px;
+    height: 106px;
+  }
+  .pngwing-1-icon {
+    position: absolute;
+    top: 291px;
+    left: 813px;
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+  }
+  .frame-child12 {
+    position: absolute;
+    top: 72px;
+    left: 257px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-pink);
+    width: 119px;
+    height: 67px;
+  }
+  .sexo-masculino {
+    position: absolute;
+    top: 83px;
+    left: 267px;
+    font-size: var(--font-size-xs);
+    display: inline-block;
+    font-family: var(--font-montserrat);
+    text-align: center;
+    width: 95px;
+    height: 48px;
+  }
+  .frame-child13,
+  .frame-child14 {
+    position: absolute;
+    top: 72px;
+    left: 584px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-pink);
+    width: 119px;
+    height: 67px;
+  }
+  .frame-child14 {
+    top: 74px;
+    left: 421px;
+  }
+  .idade-6 {
+    top: 86px;
+    left: 459px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-montserrat);
+    text-align: center;
+    width: 43px;
+    height: 18px;
+  }
+  .cor-dourado,
+  .idade-6,
+  .pets-home1,
+  .sobre2 {
+    position: absolute;
+    display: inline-block;
+  }
+  .cor-dourado {
+    top: 84px;
+    left: 599px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-montserrat);
+    text-align: center;
+    width: 87px;
+    height: 52px;
+  }
+  .pets-home1,
+  .sobre2 {
+    letter-spacing: 0.01em;
+    line-height: 38px;
+  }
+  .pets-home1 {
+    top: 20px;
+    left: 30px;
+    font-size: var(--font-size-2xl);
+    font-weight: 600;
+    font-family: var(--font-poppins);
+    color: var(--color-firebrick-200);
+    width: 136px;
+  }
+  .sobre2 {
+    top: 0;
+    left: 0;
+    color: var(--color-firebrick-100);
+    width: 40px;
+    height: 38px;
+  }
+  .adoo4 {
+    left: 84px;
+    width: 59px;
+    height: 38px;
+  }
+  .adoo4,
+  .cadastro-animal2,
+  .vendas2 {
+    position: absolute;
+    top: 0;
+    letter-spacing: 0.01em;
+    line-height: 38px;
+    display: inline-block;
+    opacity: 0.77;
+  }
+  .vendas2 {
+    left: 175px;
+    width: 69px;
+    height: 38px;
+  }
+  .cadastro-animal2 {
+    left: 277px;
+    width: 119px;
+  }
+  .sobre-container {
+    position: absolute;
+    top: 19px;
+    left: 462px;
+    width: 396px;
+    height: 38px;
+    color: var(--color-darkslategray);
+  }
+  .rectangle-root {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-antiquewhite);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-josefin-sans);
+  }
+  
