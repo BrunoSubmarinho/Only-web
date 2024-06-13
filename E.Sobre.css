@@ -1,0 +1,162 @@
+.desktop-2-child,
+.sobre2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.desktop-2-child {
+  background-color: var(--color-antiquewhite);
+  width: 1440px;
+  height: 150px;
+}
+.sobre2 {
+  letter-spacing: 0.01em;
+  line-height: 38px;
+  background: linear-gradient(180deg, #ffc727, #f0bb25 99.99%, #997717);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 40px;
+  height: 38px;
+}
+.adoo4 {
+  left: 84px;
+  width: 59px;
+  height: 38px;
+}
+.adoo4,
+.cadastro-animal2,
+.vendas2 {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.01em;
+  line-height: 38px;
+  display: inline-block;
+  opacity: 0.77;
+}
+.vendas2 {
+  left: 175px;
+  width: 69px;
+  height: 38px;
+}
+.cadastro-animal2 {
+  left: 277px;
+  width: 119px;
+}
+.sobre-container {
+  position: absolute;
+  top: 63px;
+  left: 703px;
+  width: 396px;
+  height: 38px;
+  color: var(--color-darkslategray);
+  font-family: var(--font-josefin-sans);
+}
+.mdipaw {
+  position: absolute;
+  top: 81px;
+  left: 68px;
+  width: 46px;
+  height: 47px;
+  overflow: hidden;
+}
+.cat-pngg-1 {
+  position: absolute;
+  top: -49px;
+  left: 574px;
+  width: 1030px;
+  height: 760px;
+}
+.sobre-o-pets {
+  position: absolute;
+  top: 139px;
+  left: 412px;
+  display: inline-block;
+  width: 616px;
+}
+.cat-pngg-1-parent,
+.petshome-1 {
+  position: absolute;
+  top: 40px;
+  left: 170px;
+  width: 133px;
+  height: 18px;
+  overflow: hidden;
+}
+.cat-pngg-1-parent {
+  top: 165px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 372px;
+  font-size: 63.2px;
+  font-family: var(--font-poppins);
+}
+.PetsHome-icon1 {
+  position: absolute;
+  height: 3.13%;
+  width: 12.71%;
+  top: 6.45%;
+  right: 78.33%;
+  bottom: 90.43%;
+  left: 8.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-2-inner,
+.frame-child6 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.frame-child6 {
+  top: 116px;
+  background-color: var(--color-midnightblue);
+  height: 66px;
+}
+.desktop-2-inner {
+  top: 846px;
+  background-color: #7c7d9f;
+  height: 182px;
+  overflow: hidden;
+}
+.em-2024-nasceu {
+  margin: 0;
+}
+.em-2024-nasceu-container {
+  position: absolute;
+  top: 553px;
+  left: 38px;
+  font-size: 19.7px;
+  display: inline-block;
+  width: 1364px;
+  height: 293px;
+}
+.petfam-online-pvt {
+  position: absolute;
+  top: 989px;
+  left: 1060px;
+  font-size: 5.9px;
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.desktop-2-item {
+  position: absolute;
+  top: 978px;
+  left: 1047px;
+  background-color: var(--color-midnightblue);
+  width: 194px;
+  height: 33px;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-tahoma);
+}
