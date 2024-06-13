@@ -238,7 +238,8 @@
     width: 513px;
   }
   .carteira-de-vascinao-registr {
-    margin: 0;
+  position: absolute;
+  
   }
   .carteira-de-vascinao-container1 {
     width: 100%;
@@ -828,6 +829,16 @@
     width: 52px;
     height: 21px;
   }
+  .pet-shop-landing-page-child13b{
+    position: absolute;
+    top: 1663px;
+    left: 170px;
+    box-shadow: 0 15px 20px rgba(49, 49, 49, 0.25);
+    border-radius: var(--br-6xl);
+    background-color: var(--color-darkred);
+    width: 581px;
+    height: 173px;
+  }
   .pet-shop-landing-page-child13 {
     position: absolute;
     top: 3337px;
@@ -837,6 +848,7 @@
     width: 127px;
     height: 67px;
   }
+
   .anos4,
   .idade2 {
     position: absolute;
@@ -892,7 +904,7 @@
   .pet-shop-landing-page {
     width: 100%;
     position: relative;
-    background-color: #fffaf5;
+    background-color:#EBE3CC;
     height: 4187px;
     overflow: hidden;
     text-align: center;
