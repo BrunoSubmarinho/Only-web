@@ -1,0 +1,16 @@
+--comandos git para repositorio--
+
+git init
+git add .
+--para ver se todos os arquivos estão adicionados--
+git status
+
+--email e nome do github
+git config --global user.name "seuNomedoGithub"
+git config --global user.email "seuEmail.gmail.com"
+
+-- relatar sobre alterações--
+
+git commit -m "Relatar Alterações"
+
+--
