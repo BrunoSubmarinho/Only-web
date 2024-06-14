@@ -201,6 +201,8 @@
     position: relative;
     letter-spacing: 0.09em;
     line-height: 38px;
+    text-decoration: none;
+    color: #EBE3CC;
   }
   .adotar-wrapper {
     position: absolute;
@@ -433,7 +435,7 @@
     height: 263px;
   }
   .encontre-seu-novo-container3 {
-    position: absolute;
+    position: fixed;
     top: 488px;
     left: calc(50% + 349px);
     font-size: var(--font-size-xl);
@@ -912,4 +914,14 @@
     color: var(--color-black);
     font-family: var(--font-montserrat);
   }
+    .texto-fixed{
+        position:absolute;
+       top:450px;
+      width: 1350px;
+      
+      text-align: right;
+      white-space: pre;
+      color: white;
+
+    }
   
