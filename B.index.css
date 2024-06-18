@@ -109,7 +109,7 @@
   height: 1024px;
 }
 .cat-and-dog-cuate-1 {
-  left: 70px;
+  left: 110px;
   width: 339px;
   height: 320px;
 }
@@ -119,7 +119,7 @@
 .encontre-seu-novo-container {
   position: absolute;
   top: 465px;
-  left: calc(50% - 181px);
+  left: calc(55% - 181px);
   font-size: var(--font-size-xl);
   display: inline-block;
   width: 362px;
@@ -129,7 +129,7 @@
 .visamos-facilitar-a1 {
   position: absolute;
   top: 711px;
-  left: 98px;
+  left: 110px;
   display: inline-block;
   width: 359px;
 }
