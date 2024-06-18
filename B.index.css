@@ -161,7 +161,7 @@
 }
 .tela-cadastro,
 .tela-login {
-  background-color: var(--color-brown);
+  background-color: var(--color-brown); 
   height: 1024px;
   overflow: hidden;
 }
