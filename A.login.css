@@ -146,4 +146,11 @@
     color: var(--color-black);
     font-family: var(--font-poppins);
   }
+  .gmail007{
+    position: absolute;
+    top: 415px;
+    left: 690px;
+    border: none;
+    outline: none;
+  }
   
