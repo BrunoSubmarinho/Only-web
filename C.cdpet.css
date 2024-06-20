@@ -16,6 +16,7 @@
     left: 162px;
     border: none;
     outline: none;
+    width: 100%;
   }
   .input-estilo2{
     position: absolute;
@@ -23,6 +24,7 @@
     left: 162px;
     border: none;
     outline: none;
+    width: 100%;
   }
   .input-estilo3{
     position: absolute;
@@ -30,6 +32,7 @@
     left: 162px;
     border: none;
     outline: none;
+    width: 100%;
   }
   .input-estilo4{
     position: absolute;
@@ -37,6 +40,7 @@
     left: 162px;
     border: none;
     outline: none;
+    width: 100%;
   }
   .frame-child {
     top: 391px;

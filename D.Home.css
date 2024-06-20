@@ -87,6 +87,7 @@
   line-height: 38px;
   display: inline-block;
   opacity: 0.77;
+  color: #062D3E;
 }
 .vendas {
   left: 175px;
@@ -241,6 +242,7 @@
 }
 .carteira-de-vascinao-registr {
 position: absolute;
+top: 1px;
 
 }
 .carteira-de-vascinao-container1 {
@@ -249,7 +251,7 @@ position: absolute;
 .carteira-de-vascinao,
 .carteira-de-vascinao-container {
   position: absolute;
-  top: 278px;
+  top: 260px;
   left: 32px;
   line-height: 39px;
   font-weight: 500;

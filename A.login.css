@@ -132,8 +132,10 @@
   .criar-conta1 {
     top: 644px;
     left: calc(50% + 249px);
-    color: var(--color-red);
     width: 146px;
+  }
+  .criarcontacolor{
+    color: red;
   }
   .tela-login1 {
     width: 100%;
@@ -152,5 +154,17 @@
     left: 690px;
     border: none;
     outline: none;
+    width: 100%;
   }
-  
+  .senha007{
+    position: absolute;
+    top: 550px;
+    left: 687px;
+    border: none;
+    outline: none;
+    width: 100%;
+  }
+  .entrar007{
+    text-decoration: none;
+    color: white;
+  }
