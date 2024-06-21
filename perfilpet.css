@@ -219,7 +219,7 @@
     line-height: 38px;
   }
   .pets-home1 {
-    top: 20px;
+    top: 10px;
     left: 30px;
     font-size: var(--font-size-2xl);
     font-weight: 600;
@@ -248,7 +248,6 @@
     letter-spacing: 0.01em;
     line-height: 38px;
     display: inline-block;
-    opacity: 0.77;
     text-decoration: none;
     color: #062D3E;
   }
@@ -258,7 +257,7 @@
     height: 38px;
   }
   .cadastro-animal2 {
-    left: 277px;
+    left: 30px;
     width: 119px;
   }
   .sobre-container {
