@@ -1,149 +1,212 @@
+.cadastro {
+  position: absolute;
+  top: 152px;
+  left: 359px;
+  font-size: var(--font-size-31xl);
+}
+.frame-child,
+.nome {
+  position: absolute;
+  left: 162px;
+}
+.nome {
+  top: 323px;
+  font-weight: 500;
+}
+.frame-child {
+  top: 391px;
+  width: 580px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.e-mail {
+  top: 582px;
+  font-weight: 500;
+}
+.e-mail,
+.frame-item,
+.senha {
+  position: absolute;
+  left: 162px;
+}
+.frame-item {
+  top: 481px;
+  width: 580px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.senha {
+  top: 498px;
+  font-weight: 500;
+}
+.frame-inner {
+  top: 566px;
+  width: 580px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.cpf,
+.frame-inner,
+.line-icon {
+  position: absolute;
+  left: 162px;
+}
+.cpf {
+  top: 413px;
+  font-weight: 500;
+}
+.line-icon {
+  top: 650px;
+  width: 580px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.rectangle-div {
+  position: absolute;
+  top: 762px;
+  left: 334px;
+  border-radius: var(--br-51xl);
+  background-color: var(--color-tomato);
+  width: 235px;
+  height: 62px;
+  cursor: pointer;
+}
+.criar-conta {
+  position: absolute;
+  top: 775px;
+  left: 381px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.caso-j-tenha,
+.entrar {
+  position: absolute;
+  top: 696px;
+  left: calc(50% - 329px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-montserrat);
+  text-align: left;
+  width: 281px;
+  height: 23px;
+}
+.entrar {
+  left: calc(50% - 61px);
+  color: var(--color-red);
+  width: 92px;
+}
+.cadastro-parent,
 .cat-and-dog-cuate-1 {
-    position: absolute;
-    top: 0;
-    left: 70px;
-    width: 339px;
-    height: 320px;
-    overflow: hidden;
-  }
-  .encontre-seu-novo {
-    margin: 0;
-  }
-  .encontre-seu-novo-container {
-    position: absolute;
-    top: 465px;
-    left: calc(50% - 181px);
-    font-size: var(--font-size-xl);
-    display: inline-block;
-    width: 362px;
-    height: 124px;
-  }
-  .visamos-facilitar-a,
-  .visamos-facilitar-a1 {
-    position: absolute;
-    top: 711px;
-    left: 98px;
-    display: inline-block;
-    width: 359px;
-  }
-  .visamos-facilitar-a1 {
-    top: 813px;
-  }
-  .gato-1-1 {
-    position: absolute;
-    top: 709px;
-    left: 50px;
-    width: 40px;
-    height: 40px;
-    object-fit: cover;
-  }
-  .pet-house {
-    position: absolute;
-    top: 367px;
-    left: 142px;
-    font-size: var(--font-size-17xl);
-    color: var(--color-salmon);
-  }
-  .cachorro-1-icon {
-    position: absolute;
-    top: 803px;
-    left: 50px;
-    width: 40px;
-    height: 40px;
-    object-fit: cover;
-  }
-  .tela-login1 {
-    top: 0;
-    left: 0;
-    background-color: var(--color-brown);
-    width: 480px;
-    height: 1024px;
-    overflow: hidden;
-    font-size: var(--font-size-mini);
-    color: var(--color-white);
-    font-family: var(--font-montserrat);
-  }
-  .e-mail,
-  .login,
-  .tela-login1 {
-    position: absolute;
-  }
-  .login {
-    top: 151px;
-    left: 899px;
-    font-size: var(--font-size-31xl);
-  }
-  .e-mail {
-    top: 363px;
-    left: 679px;
-    font-weight: 500;
-  }
-  .tela-login-child {
-    top: 431px;
-    width: 580px;
-    height: 3.1px;
-    object-fit: contain;
-  }
-  .senha,
-  .tela-login-child,
-  .tela-login-item {
-    position: absolute;
-    left: 679px;
-  }
-  .senha {
-    top: 496px;
-    font-weight: 500;
-  }
-  .tela-login-item {
-    top: 564px;
-    width: 580px;
-    height: 3.1px;
-    object-fit: contain;
-  }
-  .tela-login-inner {
-    position: absolute;
-    top: 741px;
-    left: 837px;
-    border-radius: var(--br-51xl);
-    background-color: var(--color-tomato);
-    width: 263px;
-    height: 62px;
-  }
-  .entrar {
-    position: absolute;
-    top: 749px;
-    left: 924px;
-    font-size: 30px;
-    font-weight: 500;
-    color: var(--color-white);
-  }
-  .caso-no-tenha,
-  .criar-conta {
-    position: absolute;
-    top: 645px;
-    left: calc(50% - 41px);
-    font-size: var(--font-size-xl);
-    display: inline-block;
-    font-family: var(--font-montserrat);
-    text-align: left;
-    width: 339px;
-    height: 15px;
-  }
-  .criar-conta {
-    top: 644px;
-    left: calc(50% + 249px);
-    color: var(--color-red);
-    width: 146px;
-  }
-  .tela-login {
-    width: 100%;
-    position: relative;
-    background-color: var(--color-white);
-    height: 1024px;
-    overflow: hidden;
-    text-align: center;
-    font-size: var(--font-size-16xl);
-    color: var(--color-black);
-    font-family: var(--font-poppins);
-  }
-  
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.cadastro-parent {
+  left: 0;
+  background-color: var(--color-white);
+  width: 960px;
+  height: 1024px;
+}
+.cat-and-dog-cuate-1 {
+  left: 110px;
+  width: 339px;
+  height: 320px;
+}
+.encontre-seu-novo {
+  margin: 0;
+}
+.encontre-seu-novo-container {
+  position: absolute;
+  top: 465px;
+  left: calc(55% - 181px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 362px;
+  height: 124px;
+}
+.visamos-facilitar-a,
+.visamos-facilitar-a1 {
+  position: absolute;
+  top: 711px;
+  left: 110px;
+  display: inline-block;
+  width: 359px;
+}
+.visamos-facilitar-a1 {
+  top: 813px;
+}
+.gato-1-1 {
+  position: absolute;
+  top: 709px;
+  left: 50px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.pet-house {
+  position: absolute;
+  top: 367px;
+  left: 142px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-salmon);
+}
+.cachorro-1-icon {
+  position: absolute;
+  top: 803px;
+  left: 50px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.tela-cadastro,
+.tela-login {
+  background-color: var(--color-brown); 
+  height: 1024px;
+  overflow: hidden;
+}
+.tela-login {
+  position: absolute;
+  top: 0;
+  left: 960px;
+  width: 480px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+.tela-cadastro {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.inputt-estilo{
+  position:absolute;
+  top:370px ;
+  left:175px  ;
+  outline:none;
+  border: none ;
+}
+.input-estilo2{
+position:absolute;
+  top:460px ;
+  left: 175px;;
+  outline: none ;
+  border: none;
+}
+.input-estilo3{
+  position: absolute;
+  top: 545px;
+  left: 175px;;
+  outline:none ;
+  border: none;
+}
+.input-estilo4{
+  position: absolute;
+  top:630px;
+  left: 170px;;
+  outline: none;
+  border:none ;
+}
