@@ -109,6 +109,8 @@
     font-size: var(--font-size-5xl);
     font-weight: 500;
     color: var(--color-white);
+    text-decoration: none;
+    color: white;
   }
   .caso-j-tenha,
   .entrar {
