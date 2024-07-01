@@ -1,0 +1,236 @@
+.pets-home2,
+.sobre3 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 38px;
+  display: inline-block;
+}
+.pets-home2 {
+  top: 1px;
+  font-weight: 600;
+  width: 136px;
+}
+.sobre3 {
+  top: 0;
+  color: var(--color-firebrick-100);
+  width: 40px;
+  height: 38px;
+}
+.adoo5 {
+  left: 84px;
+  width: 59px;
+  height: 38px;
+}
+.adoo5,
+.cadastro-animal3,
+.vendas3 {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.01em;
+  line-height: 38px;
+  display: inline-block;
+  opacity: 0.77;
+}
+.vendas3 {
+  left: 175px;
+  width: 69px;
+  height: 38px;
+}
+.cadastro-animal3 {
+  left: 277px;
+  width: 119px;
+}
+.frame19,
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 432px;
+  width: 396px;
+  height: 38px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray);
+  font-family: var(--font-josefin-sans);
+}
+.frame19 {
+  top: 19px;
+  left: 56px;
+  width: 828px;
+  height: 39px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-firebrick-200);
+  font-family: var(--font-poppins);
+}
+.tela-de-usuario-child {
+  position: absolute;
+  top: 126px;
+  left: 75px;
+  border-radius: 50%;
+  background-color: var(--color-rosybrown);
+  width: 99px;
+  height: 105px;
+}
+.user-2-icon1 {
+  position: absolute;
+  top: 153px;
+  left: 101px;
+  width: 46px;
+  height: 50px;
+  object-fit: cover;
+}
+.tela-de-usuario-item {
+  position: absolute;
+  top: 126px;
+  left: 192px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 356px;
+  height: 31px;
+}
+.nome1 {
+  position: absolute;
+  top: 132px;
+  left: 210px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 45px;
+  height: 19px;
+}
+.tela-de-usuario-inner {
+  position: absolute;
+  top: 199px;
+  left: 192px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 356px;
+  height: 31px;
+}
+.email {
+  position: absolute;
+  top: 205px;
+  left: 210px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 41px;
+  height: 19px;
+}
+.pngwing-3-icon {
+  position: absolute;
+  top: 63px;
+  left: 101px;
+  border-radius: 31px;
+  width: 46px;
+  height: 43px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.tela-de-usuario-child1 {
+  position: absolute;
+  top: 276px;
+  left: 107px;
+  box-shadow: 0 15px 20px rgba(49, 49, 49, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkred);
+  width: 746px;
+  height: 109px;
+}
+.cpf1,
+.div {
+  position: absolute;
+  top: 317px;
+  left: 142px;
+  font-weight: 600;
+  display: inline-block;
+  width: 207px;
+}
+.div {
+  top: 316px;
+  left: 462px;
+  width: 311px;
+}
+.tela-de-usuario-child2 {
+  position: absolute;
+  top: 455px;
+  left: 107px;
+  box-shadow: 0 15px 20px rgba(49, 49, 49, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkred);
+  width: 746px;
+  height: 109px;
+}
+.email1,
+.gmailcom {
+  position: absolute;
+  top: 496px;
+  left: 177px;
+  font-weight: 600;
+  display: inline-block;
+  width: 137px;
+}
+.gmailcom {
+  top: 495px;
+  left: 414px;
+  width: 407px;
+}
+.tela-de-usuario-child3 {
+  position: absolute;
+  top: 635px;
+  left: 107px;
+  box-shadow: 0 15px 20px rgba(49, 49, 49, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkred);
+  width: 746px;
+  height: 109px;
+}
+.div1,
+.senha2 {
+  position: absolute;
+  top: 676px;
+  left: 142px;
+  font-weight: 600;
+  display: inline-block;
+  width: 207px;
+}
+.div1 {
+  top: 675px;
+  left: 462px;
+  width: 311px;
+}
+.tela-de-usuario-child4 {
+  position: absolute;
+  top: 854px;
+  left: 290px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background-color: var(--color-tomato);
+  width: 379px;
+  height: 74px;
+}
+.sair-dessa-conta {
+  position: absolute;
+  top: 880px;
+  left: 391px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 177px;
+  height: 23px;
+}
+.tela-de-usuario {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-antiquewhite);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
