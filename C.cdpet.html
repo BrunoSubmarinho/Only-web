@@ -2,17 +2,12 @@
 <html>
 
 <head>
-  <!-- Define o conjunto de caracteres para o documento -->
   <meta charset="utf-8" />
-  <!-- Define a visualização inicial do documento para dispositivos móveis -->
   <meta name="viewport" content="initial-scale=1, width=device-width" />
 
-  <!-- Link para o arquivo CSS global -->
   <link rel="stylesheet" href="./global.css" />
-  <!-- Link para o arquivo CSS específico desta página -->
   <link rel="stylesheet" href="./C.cdpet.css" />
   <title>Cadastro do Pet</title>
-  <!-- Link para fontes do Google Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" />
 
@@ -28,72 +23,58 @@
   <div class="tela-cadastro-animal">
     <div class="cadastro-parent">
       <b class="cadastro">Cadastro</b>
-      <!-- Campo para o nome do pet -->
       <div class="nome-do-pet">Nome do pet</div>
       <input class="input-estilo" type="text" placeholder="digite o nome do pet">
 
-      <!-- Imagem de linha decorativa -->
       <img class="frame-child" alt="" />
 
-      <!-- Campo para a descrição do pet -->
       <div class="descrio">Descrição</div>
       <input class="input-estilo2" type="text" placeholder="digite a Descrição que mais se encaixa no seu pet">
 
-      <!-- Outra imagem de linha decorativa -->
       <img class="frame-item" alt="" />
 
-      <!-- Campo para a idade do pet -->
       <div class="idade">Idade</div>
       <input class="input-estilo3" type="text" placeholder="digite a idade do seu pet">
 
-      <!-- Outra imagem de linha decorativa -->
       <img class="frame-inner" alt="" />
 
-      <!-- Campo para a espécie do pet -->
       <div class="especie-do-pet">Especie do pet</div>
       <input class="input-estilo4" type="text" placeholder="digite a Especie do seu pet">
 
-      <!-- Outra imagem de linha decorativa -->
       <img class="line-icon" alt="" />
 
-      <!-- Botão para adicionar o pet -->
       <div class="rectangle-div" id="rectangle"></div>
       <div ><a href="D.Home.html" class="criar-conta">Adicionar</a></div>
       <b class="caso-j-tenha">Caso já tenha uma conta,</b>
-      <!-- Link para a página de login -->
       <b ><a href="A.login.html" class="entrar">Entrar</a></b>
     </div>
-    
-    <!-- Seção de informações adicionais na tela de login -->
     <div class="tela-login">
-      <!-- Imagem decorativa de um cachorro e gato -->
       <img class="cat-and-dog-cuate-1" alt="" src="./assets/c.cadastroanomalIGM/Cat and dog-cuate 1.png" />
 
-      <!-- Texto descritivo sobre o site de adoção de pets -->
       <b class="encontre-seu-novo-container">
         <p class="encontre-seu-novo">
           Encontre seu novo melhor amigo em nosso site de adoção de pets!
           Junte-se a nós nesta jornada de amor e descubra como um simples
           gesto pode mudar vidas.
         </p>
+        <p class="encontre-seu-novo">&nbsp;</p>
+        <p class="encontre-seu-novo">&nbsp;</p>
+        <p class="encontre-seu-novo">&nbsp;</p>
+        <p class="encontre-seu-novo">&nbsp;</p>
+        <p class="encontre-seu-novo">&nbsp;</p>
       </b>
-      <!-- Mais textos descritivos sobre a missão do site -->
       <b class="visamos-facilitar-a">Visamos facilitar a procura por animais necessitados de um lar seguro
         e confortável.</b>
       <b class="visamos-facilitar-a1">Visamos facilitar a procura por animais necessitados de um lar seguro
         e confortável.</b>
-      <!-- Imagem de um gato -->
       <img class="gato-1-1" alt="" src="./assets/c.cadastroanomalIGM/gato (1) 1.png" />
 
-      <!-- Nome do site -->
       <b class="pet-house">Pet House</b>
-      <!-- Imagem de um cachorro -->
       <img class="cachorro-1-icon" alt="" src="./assets/c.cadastroanomalIGM/cachorro 1.png" />
     </div>
   </div>
 
   <script>
-    // Adiciona um evento de clique ao div com id "rectangle" que redireciona para a página de login
     var rectangle = document.getElementById("rectangle");
     if (rectangle) {
       rectangle.addEventListener("click", function (e) {
